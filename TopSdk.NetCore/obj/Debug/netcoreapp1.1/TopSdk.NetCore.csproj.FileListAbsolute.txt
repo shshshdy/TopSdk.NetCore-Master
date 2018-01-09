@@ -1,0 +1,4 @@
+C:\Users\ssd\Desktop\TopSdk.NetCore\TopSdk.NetCore\bin\Debug\netcoreapp1.1\TopSdk.NetCore.deps.json
+C:\Users\ssd\Desktop\TopSdk.NetCore\TopSdk.NetCore\obj\Debug\netcoreapp1.1\TopSdk.NetCore.csprojResolveAssemblyReference.cache
+C:\Users\ssd\Desktop\TopSdk.NetCore\TopSdk.NetCore\obj\Debug\netcoreapp1.1\TopSdk.NetCore.AssemblyInfo.cs
+C:\Users\ssd\Desktop\TopSdk.NetCore\TopSdk.NetCore\bin\Debug\netcoreapp1.1\TopSdk.NetCore.dll
