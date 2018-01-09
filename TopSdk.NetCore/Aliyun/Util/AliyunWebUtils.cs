@@ -165,7 +165,7 @@ namespace Aliyun.Api.Util
                 req = (HttpWebRequest)WebRequest.Create(url);
             }
 
-            req.ServicePoint.Expect100Continue = false;
+            //req.ServicePoint.Expect100Continue = false;//TODO .net core下报错
             req.Method = method;
             req.KeepAlive = true;
             req.UserAgent = "Top4Net";
